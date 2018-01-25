@@ -1,7 +1,7 @@
 # İş/Staj Arayan Frontend Developer'lar
 Aktif olarak iş/staj için arayışta olan Frontend Developer listesi
 
-Not: Yalnızca Frontend Developer pozisyonları için ekleme yapabilirsiniz. Sıralama tarihe göre yapılmaktadır. Özgeçmişinizin linkini eklerken bir url kısaltma servisi kullanmanızı rica ediyoruz.(örn: goo.gl)
+Not: Yalnızca Frontend Developer pozisyonları için ekleme yapabilirsiniz. Sıralama tarihe göre(Yeniden - Eskiye) yapılmaktadır. Özgeçmişinizin linkini eklerken bir url kısaltma servisi kullanmanızı rica ediyoruz.(örn: goo.gl)
 
 - Özgeçmişinizi kalıcı olarak ulaşılabilecek bir adrese pdf, word vb formatlarda ekleyerek link vermenizi rica ediyoruz.
 - Özgeçmişiniz iletişim adreslerinizi(mail vb) mutlaka barındırmalıdır.
