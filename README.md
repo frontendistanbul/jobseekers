@@ -9,6 +9,6 @@ Not: Yalnızca Frontend Developer pozisyonları için ekleme yapabilirsiniz. Sı
 
 #### * Frontend İstanbul gönüllü bir organizasyondur. İş arayan kişilerden ücret talep etmemektedir.
 
-|Tarih      | Fulltime/Remote/Staj | Şehir    | Ad Soyad        | Pozisyon   | Özgeçmiş Linki   | Dil/Teknoloji   |
-|-----------|---------------|-----------------|------------|------------------|------------------|---------|
-|24.01.2018 | Fulltime  | İstanbul | Jon Doe   | Sr Frontend Developer | https://goo.gl   | Html5, Css3, JavaScript, React, Redux, Webpack
+|Tarih      | Fulltime/ Remote/ Staj | Şehir    | Çalışmak İstediği Şehirler | Ad Soyad        | Pozisyon   | Özgeçmiş Linki   | Dil/Teknoloji   |
+|-----------|------------|-----------------|-----------------|------------|------------------|------------------|---------|
+|24.01.2018 | Fulltime  | İstanbul | İstanbul, Kocaeli, Bursa | Jon Doe   | Sr Frontend Developer | https://goo.gl   | Html5, Css3, JavaScript, React, Redux, Webpack
