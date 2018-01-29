@@ -7,6 +7,8 @@ Not: Yalnızca Frontend Developer pozisyonları için ekleme yapabilirsiniz. Sı
 - Özgeçmişiniz iletişim adreslerinizi(mail vb) mutlaka barındırmalıdır.
 - Bu liste her hafta sosyal medya kanallarımız aracılığı ile daha fazla kişiye ulaşmanız amacıyla duyurulacaktır.
 
+Frontend Developer arayan şirketleri görmek için [tıklayın.](https://github.com/frontendistanbul/jobs)
+
 #### * Frontend İstanbul gönüllü bir organizasyondur. İş arayan kişilerden ücret talep etmemektedir.
 
 |Tarih      | Fulltime/ Remote/ Staj     | Şehirler | Ad Soyad        | Pozisyon   | Özgeçmiş Linki   | Dil/Teknoloji   |
