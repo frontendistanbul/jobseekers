@@ -11,5 +11,4 @@ Not: Yalnızca Frontend Developer pozisyonları için ekleme yapabilirsiniz. Sı
 
 |Tarih      | Fulltime/ Remote/ Staj     | Şehirler | Ad Soyad        | Pozisyon   | Özgeçmiş Linki   | Dil/Teknoloji   |
 |-----------|------------|-----------------|------------|------------------|------------------|---------|
-|24.01.2018 | Fulltime   | İstanbul, Kocaeli, Bursa | Jon Doe   | Sr Frontend Developer | https://goo.gl   | Html5, Css3, JavaScript, React, Redux, Webpack 
 |26.01.2018 | Fulltime  | Düzce , İstanbul, Kocaeli  | Abdullah Öğük | Jr Frontend Developer | https://goo.gl/vAuYDn | Html/Css, JavaScript, React, Meteor js
